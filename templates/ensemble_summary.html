@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ensemble Prediction Summary</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Ensemble Prediction Summary</h1>
+        {% if error %}
+            <div style="color: red; font-weight: bold;">{{ error }}</div>
+        {% else %}
+            <p>Total predictions: {{ total }}</p>
+            <table style="width:100%;border-collapse:collapse;">
+                <thead>
+                    <tr style="background:#e0f7fa;">
+                        <th>Disease Class</th>
+                        <th>Count</th>
+                        <th>Percentage</th>
+                    </tr>
+                </thead>
+                <tbody>
+                {% for name, count, percent in summary %}
+                    <tr>
+                        <td>{{ name }}</td>
+                        <td>{{ count }}</td>
+                        <td>{{ percent }}</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        {% endif %}
+        <a href="/" style="display:block;margin-top:24px;">Back to Home</a>
+    </div>
+</body>
+</html>
