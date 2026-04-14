@@ -294,11 +294,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+**Project Team members**
+M.yaswanth varma
+G.yaswasree
+P.tharun
+S.sandya
+with guidance Dr.N.babu sir.
 
 ---
 
@@ -309,6 +312,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Dataset contributors
 
 ---
+**THANK YOU**
 
 <p align="center">
   Made with ❤️ for Agricultural AI
