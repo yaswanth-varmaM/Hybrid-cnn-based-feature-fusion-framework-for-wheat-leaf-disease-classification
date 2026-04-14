@@ -301,7 +301,7 @@ M.yaswanth varma,
 G.yaswasree,
 P.tharun,
 S.sandya,
-with guidance Dr.N.babu sir.
+with guidance of Dr.N.babu sir.
 
 ---
 
