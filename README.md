@@ -296,11 +296,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Authors
 
-**Project Team members**
-M.yaswanth varma
-G.yaswasree
-P.tharun
-S.sandya
+**Project Team members :**
+M.yaswanth varma,
+G.yaswasree,
+P.tharun,
+S.sandya,
 with guidance Dr.N.babu sir.
 
 ---
